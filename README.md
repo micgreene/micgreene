@@ -1,4 +1,4 @@
-Here are some ideas to get you started:
+# Hi, I'm Mike!
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on learning new tools as an AWS Apprentice.
