@@ -10,8 +10,12 @@
 
 
 <div style="display: flex; justify-content: space-evenly">
-<img style="height: 120px; width: calc(100% / 3 - 2px)" src="https://github-readme-stats.vercel.app/api/top-langs?username=micgreene&show_icons=true&locale=en&layout=compact" alt="micgreene">
-
-<img style="height: 120px; width: calc(100% / 3 - 2px)" src="https://github-readme-stats.vercel.app/api?username=micgreene&show_icons=true&locale=en" alt="micgreene" >
-<img style="height: 120px; width: calc(100% / 3 - 2px)" src="https://github-readme-streak-stats.herokuapp.com/?user=micgreene&" alt="micgreene">
-  </div> 
+  <img style="height: 120px; width: calc(100% / 3 - 2px)" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=micgreene&show_icons=true&locale=en&layout=compact" alt="micgreene">
+  <br>
+  <img style="height: 120px; width: calc(100% / 3 - 2px)" 
+       src="https://github-readme-stats.vercel.app/api?username=micgreene&show_icons=true&locale=en" alt="micgreene" >
+  <br>
+  <img style="height: 120px; width: calc(100% / 3 - 2px)" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=micgreene&" alt="micgreene">
+</div> 
