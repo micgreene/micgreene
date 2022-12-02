@@ -10,7 +10,7 @@
 - 💬 Ask me about professional boxing, martial arts, videogames, comics, anime!
 - ⚡ Fun fact: I have over 1,900 hours logged in Kerbal Space Program.
 
-  📫 Connect with me on LinkedIn: carpenter.scott22@gmail.comd
+  📫 Connect with me on LinkedIn: 
 
 <div style="display: flex; justify-content: space-evenly">
   <img style="height: 120px; width: calc(100% / 3 - 2px)" 
