@@ -9,8 +9,7 @@
 - 🤔 I’m looking for help with learning RUST, utilizing AWS services.
 - 💬 Ask me about professional boxing, martial arts, videogames, comics, anime!
 - ⚡ Fun fact: I have over 1,900 hours logged in Kerbal Space Program.
-
-  📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/micgreene/) 
+-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/micgreene/) 
 
 <div style="display: flex; justify-content: space-evenly">
   <img style="height: 120px; width: calc(100% / 3 - 2px)" 
